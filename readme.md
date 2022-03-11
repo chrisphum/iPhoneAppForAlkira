@@ -1,8 +1,11 @@
 # iPhoneAppForAlkira
+# Video link: https://youtu.be/1ft7Od9pDUw
 
 
 Hello! This is my React Native App for iPhone, made possible by using a tool called Expo.
 I started this project during at the start of 2022, and have been working on it in my free time.
+
+See a demo of my work so far: https://youtu.be/1ft7Od9pDUw
 
 
 I plan to apply for the Apple App Store by the end of this month (March 2022).
