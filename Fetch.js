@@ -1,4 +1,4 @@
-var access_token = "&access_token=pk.eyJ1IjoiY2hyaXNodXkiLCJhIjoiY2twaWlia3ZnMGthcTJwcnJvZXNiYXQ5MCJ9.mDrBVPpUqTqAxwPv9eWvoQ"
+var access_token = "XX"
 
 export async function Loop(lat, lng, distance) {
 
